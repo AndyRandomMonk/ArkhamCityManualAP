@@ -1,5 +1,5 @@
 # ArkhamCityManualAP
-A manual Archipelago Randomizer for Batman: Arkham City
+A manual Archipelago Randomizer for Batman: Arkham City.
 To be used with the [Manual for Archipelago](https://github.com/ManualForArchipelago) project.
 
 # How to Setup
