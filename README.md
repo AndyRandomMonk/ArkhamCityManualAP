@@ -18,6 +18,19 @@ As for items, these include:
 
 If you don't have these items unlocked in your Manual Client, you can't use them yet.
 
+The checks include:
+* Main Story bosses
+* TYGER cameras
+* Riddler Challenges (20, 40, 60, 80, 100 so far)
+* Fragile Alliance side mission
+* The Tea Party side mission
+* Remote Hideaway side mission
+* AR Training (incl. Grapnel Boost)
+* Heart of Ice side mission
+* Hot And Cold side mission
+* Watcher in the Wings side mission
+* Identity Theft side mission
+
 It is advised to complete all possible checks that are in logic to prevent accidental BKs.
 (For example, if you are in the Steel Mill and didn't get the 100 Riddler Challenges for the REC, you essentially locked yourself out and may have to start over, or unlock the REC in the Archipelago server's admin console.)
 
