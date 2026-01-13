@@ -9,6 +9,8 @@ To be used with the [Manual for Archipelago](https://github.com/ManualForArchipe
 4. Restart your Archipelago client and start up the "Manual Client".
 5. Connect to the server using the B:AC Manual AP in the client.
 
+**NOTE: This Manual AP is intended to be played with the Catwoman DLC disabled. You can do this by removing the +DLCBundlesInstalled="Catwoman" lines in your PCGame.ini.**
+
 # How to Play
 As of now, this AP supports the main story and several side missions.
 As for items, these include:
@@ -35,7 +37,5 @@ The checks include:
 
 It is advised to complete all possible checks that are in logic to prevent accidental BKs.
 (For example, if you are in the Steel Mill and didn't get the 100 Riddler Challenges for the REC, you essentially locked yourself out and may have to start over, or unlock the REC in the Archipelago server's admin console.)
-
-**NOTE: This Manual AP is intended to be played with the Catwoman DLC disabled. You can do this by removing the +DLCBundlesInstalled="Catwoman" lines in your PCGame.ini.**
 
 This project is still in early development. If you encounter any bugs or logic errors, let me know via the Issues tab.
