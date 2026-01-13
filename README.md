@@ -13,7 +13,7 @@ To be used with the [Manual for Archipelago](https://github.com/ManualForArchipe
 As of now, this AP supports the main story and several side missions.
 As for items, these include:
 * The Locations (Courthouse, Church, Steel Mill (Front and Back are seperate), GCPD and more...)
-* Level Ups (Not all of them)
+* Level Ups (All 27 of them)
 * The Main Story Gadgets (REC, Disruptor, Line Launcher and Freeze Blast)
 
 If you don't have these items unlocked in your Manual Client, you can't use them yet.
@@ -30,8 +30,12 @@ The checks include:
 * Hot And Cold side mission
 * Watcher in the Wings side mission
 * Identity Theft side mission
+* Shot in The Dark side mission
+* Cold Call Killer side mission
 
 It is advised to complete all possible checks that are in logic to prevent accidental BKs.
 (For example, if you are in the Steel Mill and didn't get the 100 Riddler Challenges for the REC, you essentially locked yourself out and may have to start over, or unlock the REC in the Archipelago server's admin console.)
+
+**NOTE: This Manual AP is intended to be played with the Catwoman DLC disabled. You can do this by removing the +DLCBundlesInstalled="Catwoman" lines in your PCGame.ini.**
 
 This project is still in early development. If you encounter any bugs or logic errors, let me know via the Issues tab.
