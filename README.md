@@ -38,6 +38,6 @@ The checks include:
 ¹The current implementation for the Riddler Challenges and Hostages is experimental and requires to be activated in the YAML firsthand. You will find the option for it under "enable_riddlerchallenges".
 
 It is advised to complete all possible checks that are in logic to prevent accidental BKs.
-(For example, if you are in the Steel Mill and didn't get the 100 Riddler Challenges for the REC, you essentially locked yourself out and may have to start over, or unlock the REC in the Archipelago server's admin console.)
+(For example, if you are in the Steel Mill and didn't get the one of the TYGER Cameras checks for the REC, you essentially locked yourself out and may have to start over, or unlock the REC in the Archipelago server's admin console.)
 
 This project is still in early development. If you encounter any bugs or logic errors, let me know via the Issues tab.
