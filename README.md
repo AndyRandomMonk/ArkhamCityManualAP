@@ -23,7 +23,6 @@ If you don't have these items unlocked in your Manual Client, you can't use them
 The checks include:
 * Main Story bosses
 * TYGER cameras
-* Riddler Challenges (20, 40, 60, 80, 100 so far)
 * Fragile Alliance side mission
 * The Tea Party side mission
 * Remote Hideaway side mission
@@ -34,6 +33,9 @@ The checks include:
 * Identity Theft side mission
 * Shot in The Dark side mission
 * Cold Call Killer side mission
+* Riddler Challenges and Hostages¹
+
+¹The current implementation for the Riddler Challenges and Hostages is experimental and requires to be activated in the YAML firsthand. You will find the option for it under "enable_riddlerchallenges".
 
 It is advised to complete all possible checks that are in logic to prevent accidental BKs.
 (For example, if you are in the Steel Mill and didn't get the 100 Riddler Challenges for the REC, you essentially locked yourself out and may have to start over, or unlock the REC in the Archipelago server's admin console.)
